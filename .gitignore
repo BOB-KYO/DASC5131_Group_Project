@@ -1,0 +1,15 @@
+# Builder script (internal use only)
+_build_notebook.py
+
+# Data — too large for GitHub (share via Google Drive / Kaggle)
+Raw/
+Processed/
+
+# Generated outputs (reproducible from notebook)
+figures/
+tables/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
