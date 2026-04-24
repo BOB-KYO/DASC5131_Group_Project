@@ -34,4 +34,4 @@ Place datasets in `Raw/` and `Processed/` as expected by the notebook.
 
 ## How to Run
 
-Open `DASC5131_Group2_Project_v3.ipynb` and run all cells sequentially.
+Open `DASC5131_Group2_Project_FINAL.ipynb` and run all cells sequentially.
